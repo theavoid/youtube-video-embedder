@@ -6,3 +6,5 @@ https://theavoid.github.io/youtube-video-embedder/
 
 ## Screenshots
 ![YouTube Embedder](https://i.hizliresim.com/g34bjm5.jpg)
+![YouTube Embedder](https://i.hizliresim.com/3y7fjna.jpg)
+
