@@ -5,9 +5,8 @@ const iframe_button = document.getElementById("copy_button")
 const iframe_code = document.getElementById("iframecode")
 iframe_button.addEventListener("click", () => {
     iframe_code.select();
-    iframe_code.setSelectionRange(0, 99999); /* For mobile devices */
+    iframe_code.setSelectionRange(0, 99999);
 
-    /* Copy the text inside the text field */
     navigator.clipboard.writeText(iframe_code.value);
 
     Swal.fire({
